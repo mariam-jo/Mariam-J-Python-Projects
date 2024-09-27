@@ -12,7 +12,7 @@ from machine import Pin
 
 
 ssid = 'airuc-guest' # This should be ‘airuc-guest’ on campus Wi-Fi
-#password = 'YOUR WIFI PASSSWORD HERE'
+#password = 'YOUR WIFI PASSSWORD HERE' #the wifi I connected to had no password.
 def connect():
 # Connect to WLAN
 # Connect function from https://projects.raspberrypi.org/en/projects/get-started-pico-w/2
